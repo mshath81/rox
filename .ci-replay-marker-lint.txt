@@ -1,0 +1,3 @@
+# CI replay marker for lint/bun audit
+feature_branch: replay-766ed69b
+workflow: .github/workflows/ci.yml
